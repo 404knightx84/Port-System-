@@ -1,0 +1,1 @@
+-- Containers table: id, status, yard_slot_id, ship_id, customs_status

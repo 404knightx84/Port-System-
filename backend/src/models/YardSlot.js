@@ -1,0 +1,1 @@
+// YardSlot model / schema definition

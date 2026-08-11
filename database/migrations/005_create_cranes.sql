@@ -1,0 +1,1 @@
+-- Cranes table: id, status, current_berth_id

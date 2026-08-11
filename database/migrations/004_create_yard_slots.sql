@@ -1,0 +1,1 @@
+-- Yard slots table: id, bay, row, tier, container_id

@@ -1,0 +1,1 @@
+-- Berths table: id, capacity, current_ship_id, status

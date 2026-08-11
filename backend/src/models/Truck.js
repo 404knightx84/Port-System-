@@ -1,0 +1,1 @@
+// Truck model / schema definition

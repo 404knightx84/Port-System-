@@ -1,0 +1,1 @@
+// Berth model / schema definition

@@ -1,0 +1,1 @@
+// Crane model / schema definition

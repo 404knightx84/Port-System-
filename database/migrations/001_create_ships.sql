@@ -1,0 +1,1 @@
+-- Ships table: id, name, eta, status, priority
